@@ -1,0 +1,6 @@
+Oszlop neve	Típus	Mit jelent
+id	integer (PK)	Egyedi azonosító
+user_name	text	Ki használta
+service_name	text	Melyik szolgáltatást
+duration	integer	Használat hossza (perc)
+timestamp	timestamp	Mikor történt
